@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shoping/static/css/main.714a96b7.css",
+    "main.js": "/Shoping/static/js/main.a353272b.js",
+    "static/js/787.f055211e.chunk.js": "/Shoping/static/js/787.f055211e.chunk.js",
+    "static/media/tasty-image.png": "/Shoping/static/media/tasty-image.186cab724e43dc7d4690.png",
+    "static/media/slide-img.png": "/Shoping/static/media/slide-img.72f49b02f874005e1ac3.png",
+    "static/media/orange-dish.png": "/Shoping/static/media/orange-dish.ba5a9e529eb10d48b660.png",
+    "static/media/gauva.png": "/Shoping/static/media/gauva.827eb991150b1702efb8.png",
+    "static/media/orange.png": "/Shoping/static/media/orange.321114aef1d3d5517c23.png",
+    "static/media/grapes.png": "/Shoping/static/media/grapes.abfb5f4d4cf6b94af0b9.png",
+    "static/media/menu.png": "/Shoping/static/media/menu.3f6bb5bc73403ef4adf4.png",
+    "index.html": "/Shoping/index.html",
+    "main.714a96b7.css.map": "/Shoping/static/css/main.714a96b7.css.map",
+    "main.a353272b.js.map": "/Shoping/static/js/main.a353272b.js.map",
+    "787.f055211e.chunk.js.map": "/Shoping/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714a96b7.css",
+    "static/js/main.a353272b.js"
+  ]
+}
