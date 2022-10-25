@@ -1,11 +1,12 @@
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
-import FruitsPage from "./page/Fruits";
-import ServicePage from "./page/Service";
-import ContactPage from "./page/Contact";
-import HomePage from "./page/Home";
-import Footer from "./page/Footer";
-import "./css/style.css";
+import FruitsPage from "./Fruits";
+import ServicePage from "./Service";
+import ContactPage from "./Contact";
+import HomePage from "./Home";
+import Footer from "./Footer";
+import "../css/style.css";
+import Home from "./Home";
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
           <nav className="navbar navbar-expand-lg custom_nav-container pt-3">
             <div>
               <Link className="navbar-brand" to="/">
-                <img src={require("./img/logo.png")} />
+                <img src={require("../img/logo.png")} />
                 <span>Tropiko</span>
               </Link>
             </div>
@@ -70,6 +71,7 @@ function App() {
         </div>
       </header>
       {/* end header session */}
+      <Home />
       <Footer />
     </div>
   );
